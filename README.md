@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EtienneFerry
-- 👀 I’m interested in Computer, Tatoo, Art
+- 👀 I’m interested in Computer, Tattoo, Art
 - 🌱 I’m currently learning computer science in Strasbourg
 - 💞️ I’m looking to collaborate on a demake of Darksouls remaster in a Zelda GBA style
 - 📫 How to reach me ? mail !
